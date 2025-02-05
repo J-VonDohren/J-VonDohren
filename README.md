@@ -1,4 +1,5 @@
 <div align="center">
+  
   # 💫 About Me:
 🍎 I'm Studying a Bachelor of Computer Science Expected to Graduate 2026<br>🍕 I'm a Team Leader at Dominos Morayfield<br>💭 I'm looking forward to contributing toward open source projects such as Scikit-learn and project jupyter<br>
 
