@@ -1,4 +1,5 @@
-# 💫 About Me:
+<div align="center">
+  # 💫 About Me:
 🍎 I'm Studying a Bachelor of Computer Science Expected to Graduate 2026<br>🍕 I'm a Team Leader at Dominos Morayfield<br>💭 I'm looking forward to contributing toward open source projects such as Scikit-learn and project jupyter<br>
 
 
@@ -21,4 +22,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=J-VonDohren&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
